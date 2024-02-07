@@ -1,1 +1,1 @@
-# nextjs
+# nextjs-starter
